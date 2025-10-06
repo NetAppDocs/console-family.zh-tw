@@ -1,0 +1,88 @@
+---
+product-family:
+  title: NetApp控制台文檔
+  lead: NetApp控制台提供跨本機和雲端環境的儲存和資料服務的集中管理。它提供統一的控制、操作簡單性和安全性的管理。按功能瀏覽文件或使用搜尋尋找內容。
+  summary: NetApp控制台提供跨本機和雲端環境的儲存和資料服務的集中管理。它提供統一的控制、操作簡單性和安全性的管理。按功能瀏覽文件或使用搜尋尋找內容。
+  sidebarlinks:
+  - title: 全部
+    tags: all
+    class: active
+  - title: API
+    tags: api
+  - title: 代理商
+    tags: agents
+  - title: 行政
+    tags: console
+  - title: 治理
+    tags: governance
+  - title: 健康
+    tags: health
+  - title: 行動性
+    tags: data services
+  - title: 保護
+    tags: data services
+  - title: 儲存
+    tags: storage
+  - title: 工作負載
+    tags: data services
+  tiles:
+  - title: 設定和管理
+    icon: "./media/icon-admin.png"
+    url: "../console-setup-admin/index.html"
+    summary: 了解如何開始使用NetApp控制台，包括設定存取管理和代理程式。
+    tags: all, console, agents
+  - title: NetApp資料服務
+    icon: "./media/icon-backup.png"
+    url: "../data-services-family/index.html"
+    summary: 保護並保障您的儲存基礎架構的安全。
+    tags: all,health, data services
+  - title: 儲存管理
+    icon: "./media/icon-onprem.png"
+    url: "../storage-management-family/index.html"
+    summary: 集中管理本地和雲端儲存。
+    tags: all,storage
+  - title: 發行說明
+    icon: "./media/icon-docs.png"
+    url: "../console-relnotes/index.html"
+    summary: 了解所有NetApp控制台平台和資料服務的新功能。
+    tags: all
+  - title: API
+    icon: "./media/icon-api.png"
+    url: https://docs.netapp.com/us-en/console-automation/index.html
+    summary: 以程式設計方式管理您的基於雲端的資源。
+    tags: all,api
+  - title: 自動化中心
+    icon: "./media/icon-automation.png"
+    url: https://docs.netapp.com/us-en/netapp-automation/solutions/bac-overview.html
+    summary: 使用腳本解決方案來自動化NetApp產品和服務的部署和整合。
+    tags: all,governance
+  - title: 數位顧問（Active IQ）
+    icon: "./media/icon-activeiq.png"
+    url: "../active-iq/index.html"
+    tags: all,health
+    summary: 可操作的情報，以實現最佳儲存健康。
+  - title: 授權和訂閱
+    icon: "./media/icon-digital-wallet.png"
+    url: "../console-licenses-subscriptions/index.html"
+    tags: all,console
+    summary: 管理和監控您的許可證和訂閱。
+  - title: 生命週期規劃
+    icon: "./media/icon-economic-efficiency.png"
+    url: "../console-lifecycle-planning/index.html"
+    summary: 接收有關接近容量極限的系統和接近使用壽命的系統的建議。
+    tags: all,storage
+  - title: 軟體更新
+    icon: "./media/icon-software-updates.png"
+    url: "../console-software-updates/index.html"
+    summary: 自動評估、規劃和執行ONTAP升級。
+    tags: all,health, storage
+  - title: 儲存系統警報
+    icon: "./media/icon-alerts.png"
+    url: "../console-alerts/index.html"
+    summary: 查看ONTAP本地系統的即時系統警報並採取行動。
+    tags: all,storage
+  - title: 永續性
+    icon: "./media/icon-sustainability.png"
+    url: https://docs.netapp.com/us-en/active-iq/learn_BlueXP_sustainability.html
+    summary: 監控系統對環境的影響以實現永續發展目標。
+    tags: all,health
