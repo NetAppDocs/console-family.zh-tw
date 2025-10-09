@@ -1,8 +1,8 @@
 ---
 product-family:
-  title: NetApp控制台文檔
-  lead: NetApp控制台提供跨本機和雲端環境的儲存和資料服務的集中管理。它提供統一的控制、操作簡單性和安全性的管理。按功能瀏覽文件或使用搜尋尋找內容。
-  summary: NetApp控制台提供跨本機和雲端環境的儲存和資料服務的集中管理。它提供統一的控制、操作簡單性和安全性的管理。按功能瀏覽文件或使用搜尋尋找內容。
+  title: NetApp Console文檔
+  lead: NetApp Console提供跨本機和雲端環境的儲存和資料服務的集中管理。它提供統一的控制、操作簡單性和安全性的管理。按功能瀏覽文件或使用搜尋尋找內容。
+  summary: NetApp Console提供跨本機和雲端環境的儲存和資料服務的集中管理。它提供統一的控制、操作簡單性和安全性的管理。按功能瀏覽文件或使用搜尋尋找內容。
   sidebarlinks:
   - title: 全部
     tags: all
@@ -29,9 +29,9 @@ product-family:
   - title: 設定和管理
     icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
-    summary: 了解如何開始使用NetApp控制台，包括設定存取管理和代理程式。
+    summary: 了解如何開始使用NetApp Console，包括設定存取管理和代理程式。
     tags: all, console, agents
-  - title: NetApp資料服務
+  - title: NetApp Data Services
     icon: "./media/icon-backup.png"
     url: "../data-services-family/index.html"
     summary: 保護並保障您的儲存基礎架構的安全。
@@ -44,7 +44,7 @@ product-family:
   - title: 發行說明
     icon: "./media/icon-docs.png"
     url: "../console-relnotes/index.html"
-    summary: 了解所有NetApp控制台平台和資料服務的新功能。
+    summary: 了解所有NetApp Console平台和資料服務的新功能。
     tags: all
   - title: API
     icon: "./media/icon-api.png"
@@ -61,7 +61,7 @@ product-family:
     url: "../active-iq/index.html"
     tags: all,health
     summary: 可操作的情報，以實現最佳儲存健康。
-  - title: 授權和訂閱
+  - title: Licenses and subscriptions
     icon: "./media/icon-digital-wallet.png"
     url: "../console-licenses-subscriptions/index.html"
     tags: all,console
