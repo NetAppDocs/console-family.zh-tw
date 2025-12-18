@@ -155,7 +155,6 @@
   <block id="83f1d9ca1a0c4c2fc51a371c0d773f76" category="sidebar">保護</block>
   <block id="8c4aa541ee911e8d80451ef8cc304806" category="sidebar">儲存</block>
   <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">工作負載</block>
-  <block id="bb50e2459e4e016aa4b14a56adb2358f" category="sidebar">設定和管理</block>
   <block id="06a16afdc09ef0c65510cc192e5feba7" category="sidebar">了解如何開始使用NetApp Console，包括設定存取管理和代理程式。</block>
   <block id="cc58d3a9b2264c4fd8cb1d3f61b90bdc" category="sidebar">NetApp Data Services</block>
   <block id="a579a5e037931a607eeaff13af9a8d92" category="sidebar">保護並保障您的儲存基礎架構的安全。</block>
@@ -179,4 +178,5 @@
   <block id="19bea5bec76c66ef8bd189aa23a4c860" category="sidebar">永續性</block>
   <block id="be0b500c758e1c5675397fbdf7b45ef1" category="sidebar">監控系統對環境的影響以實現永續發展目標。</block>
   <block id="3c031b939f6ec312ee601d021e7a6644" category="sidebar">NetApp Console</block>
+  <block id="2749b80160d80f9500fa8b5d5b4da1ba" category="sidebar">NetApp Console管理</block>
 </blocks>
