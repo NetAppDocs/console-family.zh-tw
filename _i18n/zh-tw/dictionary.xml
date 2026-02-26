@@ -151,7 +151,6 @@
   <block id="83f1d9ca1a0c4c2fc51a371c0d773f76" category="sidebar">保護</block>
   <block id="8c4aa541ee911e8d80451ef8cc304806" category="sidebar">儲存</block>
   <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">工作負載</block>
-  <block id="06a16afdc09ef0c65510cc192e5feba7" category="sidebar">了解如何開始使用NetApp Console，包括設定存取管理和代理程式。</block>
   <block id="cc58d3a9b2264c4fd8cb1d3f61b90bdc" category="sidebar">NetApp Data Services</block>
   <block id="a579a5e037931a607eeaff13af9a8d92" category="sidebar">保護並保障您的儲存基礎架構的安全。</block>
   <block id="bfd15aa26ba0ced782240c4a8b7e517e" category="sidebar">儲存管理</block>
@@ -179,4 +178,7 @@
   <block id="7019a39846e9a2c7f7a80eaba91e4a41" category="paragraph"><block ref="7019a39846e9a2c7f7a80eaba91e4a41" category="inline-image-macro-rx" type="image"></block></block>
   <block id="1d593c3f7480ada9580d93cd753c3f93" category="paragraph">這是系統產生的映射到您的電子郵件的 ID。在*NSS 管理*頁面上，您可以顯示來自<block ref="5444f6f0c3983523c8933a1864b2b390" category="inline-image-macro-rx" type="image"></block>菜單。</block>
   <block id="872eaae7deb6035c20f9bfe6deefd03d" category="list-text">如果您需要刷新登入憑證令牌，還有一個*更新憑證*選項<block ref="5444f6f0c3983523c8933a1864b2b390" category="inline-image-macro-rx" type="image"></block>菜單。</block>
+  <block id="02703dffc7022f0e60a449dd217815b5" category="sidebar">了解如何開始使用 NetApp Console，包括設定存取管理和 Console 代理程式。</block>
+  <block id="9406fb3af0e8e2bf8446823785c0e069" category="sidebar">Data Infrastructure Insights</block>
+  <block id="04962f63ab8d912b0992dee20f5b6853" category="sidebar">監控、疑難排解並最佳化您的所有資源，包括您的公有雲和私有資料中心。</block>
 </blocks>
