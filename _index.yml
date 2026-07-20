@@ -91,3 +91,7 @@ product-family:
     url: https://docs.netapp.com/us-en/active-iq/learn_BlueXP_sustainability.html
     summary: 監控系統對環境的影響以實現永續發展目標。
     tags: all,health
+  - title: 架構良好的儀表板
+    url: https://docs.netapp.com/us-en/console-well-architected/index.html
+    summary: 根據最佳實務，維護可靠、安全的、高效且具成本效益的儲存設備配置。
+    tags: all,health,storage

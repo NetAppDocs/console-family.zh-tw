@@ -181,4 +181,6 @@
   <block id="02703dffc7022f0e60a449dd217815b5" category="sidebar">了解如何開始使用 NetApp Console，包括設定存取管理和 Console 代理程式。</block>
   <block id="9406fb3af0e8e2bf8446823785c0e069" category="sidebar">Data Infrastructure Insights</block>
   <block id="04962f63ab8d912b0992dee20f5b6853" category="sidebar">監控、疑難排解並最佳化您的所有資源，包括您的公有雲和私有資料中心。</block>
+  <block id="1f669523a45bf910651af3583e944a20" category="sidebar">架構良好的儀表板</block>
+  <block id="25963fb45cc76c001f06c6648e51d7be" category="sidebar">根據最佳實務，維護可靠、安全的、高效且具成本效益的儲存設備配置。</block>
 </blocks>
