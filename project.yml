@@ -9,7 +9,7 @@ settings:
     storage-management-fsx-ontap, storage-management-google-cloud-storage, storage-management-ontap-onprem,
     data-services-ransomware-resilience, console-relnotes,data-services-replication,
     console-setup-admin, console-software-updates, storage-management-storagegrid,
-    data-services-cloud-tiering, console-volume-caching, workload-setup-admin,workload-fsx-ontap,workload-databases,workload-genai,workload-vmware,
+    data-services-cloud-tiering, console-volume-caching, workload-setup-admin,workload-fsx-ontap,workload-databases,workload-eda,workload-vmware,
     keystone-staas, data-infrastructure-insights
   internal:
     pdf_enabled: false
