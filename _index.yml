@@ -27,67 +27,54 @@ product-family:
     tags: data services
   tiles:
   - title: NetApp Console管理
-    icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
     summary: 了解如何開始使用 NetApp Console，包括設定存取管理和 Console 代理程式。
     tags: all, console, agents
   - title: NetApp Data Services
-    icon: "./media/icon-backup.png"
     url: "../data-services-family/index.html"
     summary: 保護並保障您的儲存基礎架構的安全。
     tags: all,health, data services
   - title: 儲存管理
-    icon: "./media/icon-onprem.png"
     url: "../storage-management-family/index.html"
     summary: 集中管理本地和雲端儲存。
     tags: all,storage
   - title: 發行說明
-    icon: "./media/icon-docs.png"
     url: "../console-relnotes/index.html"
     summary: 了解所有NetApp Console平台和資料服務的新功能。
     tags: all
   - title: API
-    icon: "./media/icon-api.png"
     url: https://docs.netapp.com/us-en/console-automation/index.html
     summary: 以程式設計方式管理您的基於雲端的資源。
     tags: all,api
   - title: 自動化中心
-    icon: "./media/icon-automation.png"
     url: https://docs.netapp.com/us-en/netapp-automation/solutions/bac-overview.html
     summary: 使用腳本解決方案來自動化NetApp產品和服務的部署和整合。
     tags: all,governance
   - title: Data Infrastructure Insights
-    icon: "./media/icon-compute.png"
     url: https://docs.netapp.com/us-en/data-infrastructure-insights/task_cloud_insights_onboarding_1.html
     tags: all,governance
     summary: 監控、疑難排解並最佳化您的所有資源，包括您的公有雲和私有資料中心。
   - title: 數位顧問（Active IQ）
-    icon: "./media/icon-activeiq.png"
     url: "../active-iq/index.html"
     tags: all,health
     summary: 可操作的情報，以實現最佳儲存健康。
   - title: Licenses and subscriptions
-    icon: "./media/icon-digital-wallet.png"
     url: "../console-licenses-subscriptions/index.html"
     tags: all,console
     summary: 管理和監控您的許可證和訂閱。
   - title: 生命週期規劃
-    icon: "./media/icon-economic-efficiency.png"
     url: "../console-lifecycle-planning/index.html"
     summary: 接收有關接近容量極限的系統和接近使用壽命的系統的建議。
     tags: all,storage
   - title: 軟體更新
-    icon: "./media/icon-software-updates.png"
     url: "../console-software-updates/index.html"
     summary: 自動評估、規劃和執行ONTAP升級。
     tags: all,health, storage
   - title: 儲存系統警報
-    icon: "./media/icon-alerts.png"
     url: "../console-alerts/index.html"
     summary: 查看ONTAP本地系統的即時系統警報並採取行動。
     tags: all,storage
   - title: 永續性
-    icon: "./media/icon-sustainability.png"
     url: https://docs.netapp.com/us-en/active-iq/learn_BlueXP_sustainability.html
     summary: 監控系統對環境的影響以實現永續發展目標。
     tags: all,health
