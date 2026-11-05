@@ -54,6 +54,11 @@ product-family:
     url: https://docs.netapp.com/us-en/data-infrastructure-insights/task_cloud_insights_onboarding_1.html
     tags: all,governance
     summary: 監控、疑難排解並最佳化您的所有資源，包括您的公有雲和私有資料中心。
+  - title: AI Data Engine
+    icon: "./media/icon-tiering.png"
+    url: https://docs.netapp.com/us-en/netapp-aide/index.html
+    tags: all,governance
+    summary: 直接從 NetApp Console 識別儲存設備最佳化機會、管理資料生命週期決策，並對您的資料採取行動。
   - title: 數位顧問（Active IQ）
     url: "../active-iq/index.html"
     tags: all,health
